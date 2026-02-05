@@ -39,11 +39,11 @@ Pour chaque faille trouvée dans le code, vous devez rédiger une fiche d'anomal
 
 Votre audit doit au minimum couvrir les points suivants :
 
-1.  **Gestion des secrets :**
-2.  **Manipulation de la base de données :**
-3.  **Contrôle d'accès :**
-4.  **Affichage dynamique :**
-5.  **Fuite d'informations :**
+1.  **Gestion des secrets**
+2.  **Manipulation de la base de données**
+3.  **Contrôle d'accès**
+4.  **Affichage dynamique**
+5.  **Fuite d'informations**
 
 ---
 
